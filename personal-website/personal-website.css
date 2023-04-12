@@ -36,6 +36,9 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 30px 5%;
+
+    background-color: black;
+    /*border-bottom: 7px solid #c72931;*/
 }
 
 .logo{
@@ -100,19 +103,20 @@ section{
 
 /*home🟢🟢🟢🟢🟢🟢*/
 .home{
-    margin: 0 2.5%;
-    width: 95%;
-    border-radius: 1rem;
+    margin: 0;
+    /*width: 95%;*/
+    /*border-radius: 1rem;*/
     background-size: cover;
     background: url("../img/code-background2.png") center no-repeat;
     display: flex;
     min-height: 65vh;
+    background-color: black;
 
 }
 
 .content h1{
     font-size: 40px;
-    margin-top: 200px;
+    margin-top: 75%;
     text-align: center;
     background-color: black;
     color: white;
