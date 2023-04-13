@@ -69,7 +69,7 @@ span{
     position: absolute;
     background-color: #33b3a6;
     height: 3px;
-    /*width: 100%;*/
+
     left: 0;
     bottom: -8px;
     transition: all 0.5s ease;
@@ -83,7 +83,7 @@ span{
 
 
 .nav_links li a:hover{
-    /*color:#DC143C;*/
+
     transition: all 0.5s ease 0s;
 }
 
@@ -104,8 +104,6 @@ section{
 /*home🟢🟢🟢🟢🟢🟢*/
 .home{
     margin: 0;
-    /*width: 95%;*/
-    /*border-radius: 1rem;*/
     background-size: cover;
     background: url("../img/code-background2.png") center no-repeat;
     display: flex;
