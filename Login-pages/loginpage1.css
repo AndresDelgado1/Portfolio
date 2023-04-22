@@ -16,7 +16,7 @@ body{
     position: relative;
     width: 380px;
     height: 420px;
-    background: #1c1c1c;
+    background: red;
     border-radius: 8px;
     overflow: hidden;
 }
